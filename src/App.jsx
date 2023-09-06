@@ -6,7 +6,7 @@ import SearchIcon from './search.svg';
 
 // 30af137b
 
-const API_URL = 'http://www.omdbapi.com?apikey=30af137b';
+const API_URL = 'https://www.omdbapi.com?apikey=30af137b';
 
 const movie1 = {
     Title: 'Italian Spiderman', 
